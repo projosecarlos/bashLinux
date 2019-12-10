@@ -44,6 +44,7 @@ read -p "Seleccione el tipo de operación: " opcion
 function recogerValores(){
 	read -p "Introduzca el primer valor: " numero1
 	read -p "Introduzca el segundo valor: " numero2
+}
 
 ## Función para sumar dos valores dados
 function sumar(){
